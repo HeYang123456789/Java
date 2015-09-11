@@ -1,0 +1,1 @@
+### 1－－MoiveTicketTest 策略模式的使用
